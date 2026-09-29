@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e6f440a0101111ee7888f0d0",
+  "owner": "gyhnusbwhx",
+  "repo": "page-3b2dfde625cbc891400f4ac1",
+  "title": "大哥云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3b2dfde625cbc891400f4ac1",
+      "a": "大哥云",
+      "b": "",
+      "entity": "大哥云",
+      "brand": "大哥云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b001c1851799d8916eb26fe295c61e35bcc96a9764139dfa9ac09caea17cc0b6",
+      "content": {
+        "keyword1": "大哥云",
+        "keyword2": "",
+        "primary_entity": "大哥云",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "大哥云是面向个人与小团队的机场订阅与 VPN 网络加速服务。本页说明品牌简介、使用场景、操作步骤、套餐与客户端下载，并整理常见问题，便于对照官网完成配置。",
+          "AI_DESCRIPTION": "大哥云是面向个人与小团队的机场订阅与 VPN 网络加速服务。本页说明品牌简介、使用场景、操作步骤、套餐与客户端下载，并整理常见问题，便于对照官网完成配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{-webkit-text-size-adjust:100%}body{font-family:\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",\"Noto Sans SC\",sans-serif;background:#F4F0E6;color:#14261C;line-height:1.75;font-size:17px}a{color:#2D6A4F;text-decoration:none}a:hover{text-decoration:underline}img,svg{display:none}.wrap{width:min(1040px,calc(100% - 32px));margin:0 auto}header{background:#FBF8F1;border-bottom:1px solid #D8D1C3}header .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px 24px;padding:14px 0}.mark{font-weight:700;color:#1B4332;letter-spacing:.12em;font-size:1.05rem}nav{display:flex;flex-wrap:wrap;gap:8px 18px}nav a{color:#14261C;font-size:.92rem}.hero{padding:88px 0 108px}.kicker{color:#2D6A4F;font-size:.82rem;letter-spacing:.22em;text-transform:uppercase}.hero h1{font-size:clamp(3.1rem,11vw,6.2rem);line-height:1.02;color:#1B4332;font-weight:700;letter-spacing:-.04em;margin:22px 0 28px;max-width:12ch}.lead{max-width:34em;font-size:1.08rem;color:#3E4F46}.rule{height:1px;background:#D8D1C3;border:0;margin:0}.section{padding:64px 0}.section h2{font-size:clamp(1.6rem,3.4vw,2.15rem);color:#1B4332;line-height:1.25;margin-bottom:18px}.muted{color:#4E5C54}.intro-grid{display:grid;gap:28px}@media(min-width:800px){.intro-grid{grid-template-columns:0.72fr 1.28fr;gap:56px;align-items:start}}.label{font-size:.78rem;letter-spacing:.18em;color:#2D6A4F;margin-bottom:8px}.scene{padding:8px 0 28px;border-top:1px solid #D8D1C3}.scene:first-of-type{border-top:0}.scene h3{font-size:1.2rem;color:#1B4332;margin:16px 0 8px}.steps{display:grid;gap:0}.step{display:grid;grid-template-columns:48px 1fr;gap:16px;padding:18px 0;border-bottom:1px solid #D8D1C3}.num{width:36px;height:36px;border-radius:50%;background:#1B4332;color:#F4F0E6;display:flex;align-items:center;justify-content:center;font-weight:700;font-size:.95rem}.step h3{font-size:1.05rem;margin-bottom:4px;color:#1B4332}.panel{background:#FBF8F1;border:1px solid #D8D1C3;padding:28px 22px;margin-top:20px}.faq-band{background:#1B4332;color:#F4F0E6;padding:72px 0 84px}.faq-band h2{color:#F4F0E6;font-size:clamp(1.8rem,4vw,2.4rem);margin-bottom:12px}.faq-lead{max-width:38em;color:#D8F3DC;margin-bottom:28px}.faq-band details{border-bottom:1px solid rgba(244,240,230,.22);padding:6px 0}.faq-band summary{cursor:pointer;font-weight:650;font-size:1.12rem;padding:14px 0;color:#FBF8F1;list-style:none}.faq-band summary::-webkit-details-marker{display:none}.faq-band details p{padding:0 0 16px;color:#D8F3DC;max-width:46em}.foot{padding:28px 0 40px;color:#4E5C54;font-size:.9rem;border-top:1px solid #D8D1C3}main{display:block}</style><header><div class=\"wrap\"><a class=\"mark\" href=\"#\">大哥云</a><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#guide\">指南</a><a href=\"#plans\">套餐</a><a href=\"#clients\">下载</a><a href=\"#faq\">问答</a></nav></div></header><main><section class=\"hero\"><div class=\"wrap\"><p class=\"kicker\">机场订阅 · VPN 网络加速</p><h1>大哥云</h1><p class=\"lead\">把梯子、加速器与客户端下载写成一篇能读完的说明。大哥云面向需要跨境访问和日常加速的个人与小团队，你可在本页先看简介与场景，再按步骤完成订阅与导入，疑问集中放在文末问答。</p></div></section><hr class=\"rule\"><section class=\"section\" id=\"intro\"><div class=\"wrap intro-grid\"><div><p class=\"label\">品牌简介</p><h2>用订阅把节点配置交给客户端</h2></div><div><p>大哥云是围绕机场订阅组织的网络加速服务。所谓机场，通常指提供可导入常见 VPN / 代理客户端的订阅链接；你在官网完成套餐选择后，把链接粘贴进客户端，即可按需切换线路，用于浏览、协作和内容访问。</p><p class=\"muted\">本页只陈述订阅制工作方式与操作路径，不罗列无法核验的节点规模、延迟或评价。流量额度、设备数量与线路类型以套餐模块的展示为准；安装包请走本页客户端下载入口，避免来路不明的文件。</p></div></div></section><section class=\"section\" id=\"scenes\"><div class=\"wrap\"><p class=\"label\">使用场景</p><h2>哪些时候会用到大哥云</h2><p class=\"muted\">网络加速不是口号，而是一组具体情境。以下按用途拆开写，方便你对照自己的设备与工作流。</p><article class=\"scene\"><h3>远程查阅与协作</h3><p>查阅海外文档、代码托管或会议工具时，本地网络可能间歇性无法打开。导入机场订阅后，在客户端里为这类站点选择较稳定的节点，再继续办公，比反复更换浏览器代理更省事。</p></article><article class=\"scene\"><h3>流媒体与内容站点</h3><p>部分音视频、杂志和课程平台会按地区限制访问。是否能够播放取决于套餐所含线路能力，请以套餐说明为准。连接后若页面仍提示地区不符，可更换节点再试，而不必重装软件。</p></article><article class=\"scene\"><h3>出行中的公共网络</h3><p>酒店、机场和咖啡馆的公共 Wi-Fi 环境复杂。先开启客户端再登录邮箱或网盘，可减少明文传输。请确认状态已连通，再进行账号操作，也不要把订阅链接发到公开群组。</p></article><article class=\"scene\"><h3>手机与电脑一起在线</h3><p>同一订阅可在多台设备导入，上限以所选套餐为准。建议电脑用系统代理或 Tun 模式，手机用对应应用一键连接，避免同一设备重复开启多个内核造成冲突。</p></article></div></section><section class=\"section\" id=\"guide\"><div class=\"wrap\"><p class=\"label\">操作说明</p><h2>从打开官网到成功连接</h2><p class=\"muted\">流程固定为四步：选套餐、取订阅、装客户端、导入连接。数字与权益以页面套餐区为准，正文不重复抄写，以免和后台展示不一致。</p><div class=\"steps\"><div class=\"step\"><div class=\"num\">1</div><div><h3>确认流量与设备数量</h3><p>先估计每月大致用量和同时在线的终端数，再进入套餐区对照。轻度查阅选入门档即可；需要更多流量、设备或优先支持时再向上一档。</p></div></div><div class=\"step\"><div class=\"num\">2</div><div><h3>完成订阅并复制链接</h3><p>在用户中心生成或复制订阅地址。链接相当于配置钥匙，仅保存在自己的设备或密码管理器中，不要截图发到社交平台。</p></div></div><div class=\"step\"><div class=\"num\">3</div><div><h3>在官网下载对应客户端</h3><p>到下方客户端下载模块，按 Windows、macOS、Android 或 iOS 获取应用。只使用本页给出的入口，以保证订阅格式与版本匹配。</p></div></div><div class=\"step\"><div class=\"num\">4</div><div><h3>导入订阅并选择节点</h3><p>打开客户端，粘贴订阅并更新节点列表，选择一条线路后开启连接。网页打不开时先换节点，再检查本地网络、系统时间与套餐是否仍有效。</p></div></div></div></div></section><section class=\"section\" id=\"plans\"><div class=\"wrap\"><p class=\"label\">订阅方案</p><h2>按需选择大哥云套餐</h2><p class=\"muted\">价格、流量与设备上限以模块内实时信息为准。选定后即可进入客户端下载步骤。</p><div class=\"panel\">{{PLANS_HTML}}</div></div></section><section class=\"section\" id=\"clients\"><div class=\"wrap\"><p class=\"label\">官方下载</p><h2>客户端下载</h2><p class=\"muted\">大哥云订阅需配合常见加速器客户端使用。请按操作系统选取下载项，安装后导入订阅即可。具体文件与系统版本以下列入口为准。</p><div class=\"panel\">{{CLIENTS_HTML}}</div></div></section><section class=\"faq-band\" id=\"faq\"><div class=\"wrap\"><p class=\"label\">常见问题</p><h2>先看问答，再决定要不要动手</h2><p class=\"faq-lead\">把机场订阅里最容易卡住的步骤摊开写。若下列说明仍无法对应你的系统界面，把操作系统名称和客户端名称一并留给客服，比只说「连不上」更容易定位。</p><details><summary>大哥云是机场还是 VPN？</summary><p>大哥云以机场订阅提供网络加速能力。机场负责发放可更新的节点配置；VPN 或代理客户端负责在设备上发起连接。两者配合使用：没有订阅，客户端没有可用线路；没有客户端，订阅链接无法单独上网。</p></details><details><summary>第一次使用要准备什么？</summary><p>需要一份有效套餐、一条订阅链接，以及与系统匹配的客户端。完成支付后到用户中心复制订阅，再回到本页下载区安装软件，将链接粘贴导入并更新节点。全程不必寻找第三方配置文件。</p></details><details><summary>客户端应该从哪里下载？</summary><p>建议只通过本页「客户端下载」模块进入对应系统的官方下载。来路不明的修改版可能无法识别订阅，也存在安全风险。安装完成后先允许必要的网络权限，再导入链接。</p></details><details><summary>如何判断该选哪一档套餐？</summary><p>看两件事：每月流量是否够用，以及计划同时在线的设备台数。偶尔查资料的个人用户通常入门档即可；多设备、流媒体或需要更优先支持的团队再考虑更高档。具体数字以套餐模块为准，避免口口相传的过期报价。</p></details><details><summary>连上以后网页仍打不开怎么办？</summary><p>按顺序排查：本地网络本身是否可用、客户端是否显示已连接、订阅是否过期或流量耗尽、系统时间是否准确。然后更换节点或协议再试。若持续失败，向支持说明操作系统、客户端名称和已尝试的步骤。</p></details><details><summary>多台设备可以共用一条订阅吗？</summary><p>可以，只要不超过套餐允许的同时在线数量。电脑、手机各导入一次即可。若某台设备长期占用名额，在客户端断开或在用户中心下线该设备。不要把同一订阅无限制地发给他人。</p></details><details><summary>订阅链接不慎泄露了怎么办？</summary><p>立刻在用户中心重置订阅或修改密码，使旧链接失效，再把新链接更新到自己的每台设备。同时查看近期流量是否异常。重置后旧配置无法继续使用，这是预期行为。</p></details></div></section></main><footer class=\"foot\"><div class=\"wrap\">大哥云官网 · 机场订阅与加速器客户端说明。本页用于介绍使用方式与常见问题，套餐数值与下载文件以对应模块及账户内信息为准。</div></footer>",
+          "hash": "54f0e2170603079ad8cee6df66cfeceeabb2a3400336d5a0eced2d9e31156db1",
+          "seo": {
+            "title": "大哥云官网｜机场订阅、VPN 梯子与加速器客户端下载",
+            "keywords": "大哥云,大哥云机场,大哥云VPN,大哥云官网,机场订阅,梯子,网络加速,加速器,客户端下载",
+            "description": "大哥云是面向个人与小团队的机场订阅与 VPN 网络加速服务。本页说明品牌简介、使用场景、操作步骤、套餐与客户端下载，并整理常见问题，便于对照官网完成配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tvspxcm.cn",
+    "host": "m.tvspxcm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "tvspxcm.cn",
+      "url": "https://tvspxcm.cn/",
+      "label": "TiZiCloud",
+      "apex": "tvspxcm.cn",
+      "kind": null,
+      "identity": "shvyrwg/page-70398b3d6a6352916ed53f8d"
+    },
+    {
+      "host": "qcwle.cn",
+      "url": "https://qcwle.cn/",
+      "label": "大哥云",
+      "apex": "qcwle.cn",
+      "kind": null,
+      "identity": "eqjcuwagpuk/page-73a106389d0927af8ed8376b"
+    },
+    {
+      "host": "qiandad.cn",
+      "url": "https://qiandad.cn/",
+      "label": "大哥云",
+      "apex": "qiandad.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-138ceb817b5a6a48fc6c4ba7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "45339c9c92ceafa29ee6927b6b22079747faec4f36271ea19769be7ea99a7554",
+    "sitemap.xml": "7eb4308cc1e3a32fd799f1f99012f38fedc588063e0dc8f19a1514e410f7d4af",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7b0afbbc86554e96737b88e3a022e8c9a8806d9448cc93a47ecf95b6d7175e60",
+    "robots.txt": "fbea9453fd4a65f7aaea40bb780a72e92f6c5e0b2b1c3f61a9092c10304d3300",
+    "9b90c2fa78f4db2718f254c979e88049.txt": "ea1cb62fc534761e26dde0ddae5fef0a4e38f65c26a1cc01817755b2ecfd88c3"
+  },
+  "revision": "942236ee9dc643b60a9d615d2750d7edd96550e5635907a16a231eed506bccc1"
+}
